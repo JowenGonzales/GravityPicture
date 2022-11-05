@@ -1,5 +1,5 @@
 # GravityPicture
-Random Pictures with Gravity
+Random Pictures with Gravity.js
 
 My First Upload at Github
 
